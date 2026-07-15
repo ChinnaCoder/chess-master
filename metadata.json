@@ -1,0 +1,6 @@
+{
+  "name": "Chess Master",
+  "description": "A beautiful modern Chess game featuring an offline AI (Easy, Medium, Hard), 2-player pass-and-play, move undo/redo, local save/load states, and legal move highlighting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
